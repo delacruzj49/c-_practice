@@ -1,0 +1,78 @@
+.BR LUB 0629 C DH00/TAIRZX/DH06/TAIRZP/PPDRZZ
+:
+:ID   LOCATION                 HIGH  LOW    PCPN
+:                                           24HR
+:...NORTH TEXAS...
+ABI  :Abilene ASOS          :   99 / 76 /     0
+GKY  :Arlington             :  101 / 78 /     0
+CRS  :Corsicana             :   94 / 75 /     0
+DAL  :Dallas Love Field     :  101 / 80 /     0
+DFW  :DFW Airport           :  100 / 78 /     0
+DTO  :Denton                :  100 / 78 /     0
+AFW  :Fort Worth Alliance   :  101 / 79 /     0
+FTW  :Fort Worth Meacham    :   99 / 76 /     0
+GGG  :Longview              :   98 / 78 /     0
+LFK  :Lufkin                :   96 / 73 /     0
+TKI  :McKinney              :   98 / 78 /     0
+MWL  :Mineral Wells         :  103 / 77 /     0
+PRX  :Paris                 :   98 / 75 /     0
+TPL  :Temple                :   98 / 76 /     0
+TRL  :Terrell               :   99 / 78 /     0
+TYR  :Tyler                 :   95 / 77 /     0
+ACT  :Waco                  :  100 / 77 /     0
+SPS  :Wichita Falls         :  105 / 78 /     0
+:...WEST TEXAS...
+AMA  :Amarillo              :   99 / 75 /     0
+HHF  :Canadian Airport      :   99 / 75 /     0
+CDS  :Childress             :  103 / 79 /     0
+DHT  :Dalhart               :   99 / 68 /     0
+6R6  :Dryden                :  101 / 78 /     0
+ELP  :El Paso               :  104 / 81 /     0
+FST  :Fort Stockton         :  100 / 77 /     0
+GDP  :Guadalupe Pass        :   97 / 73 /     0
+LBB  :Lubbock               :  101 / 77 /     0
+MRF  :Marfa                 :   92 /  M /     0
+MAF  :Midland               :  100 / 79 /     0
+MUST2:Muleshoe              :   99 / 74 /     0
+ODO  :Odessa                :   99 / 78 /     0
+PEQ  :Pecos                 :  105 / 74 /     0
+PRS  :Presidio              :  101 / 74 /   0.45
+SJT  :San Angelo ASOS       :  103 / 78 /     0
+INK  :Wink                  :  100 / 77 /     0
+:...SOUTH TEXAS...
+ALI  :Alice                 :   95 / 77 /     0
+ATT  :Austin Mabry          :  100 / 78 /     0
+AUS  :Austin Bergstrom      :   99 / 76 /     0
+BPT  :Beaumont              :   94 / 77 /     T
+BRO  :Brownsville           :   94 / 81 /     0
+BMQ  :Burnet                :   98 / 75 /     0
+CLL  :College Station       :   96 / 76 /     0
+CXO  :Conroe                :   94 / 72 /     0
+CRP  :Corpus Christi        :   90 / 79 /     0
+NGP  :Navy Corpus           :   93 / 81 /     0
+COT  :Cotulla               :  100 / 76 /     0
+DRT  :Del Rio               :  102 / 78 /     0
+GLS  :Galveston             :   90 / 81 /     0
+GTU  :Georgetown            :   97 / 78 /     0
+HRL  :Harlingen             :   94 / 80 /     0
+HDO  :Hondo                 :  101 / 78 /     0
+HOU  :Houston Hobby         :   92 / 78 /   0.10
+IAH  :Houston Bush          :   95 / 79 /   0.01
+UTS  :Huntsville            :   94 / 76 /     0
+JCT  :Junction ASOS         :  100 / 75 /     0
+NQI  :Kingsville            :   94 / 79 /     0
+LRD  :Laredo                :  102 / 78 /     0
+MFE  :McAllen               :   96 / 81 /     0
+BAZ  :New Braunfels         :   99 / 76 /     0
+PSX  :Palacios              :   90 / 82 /     0
+LVJ  :Pearland              :   90 / 77 /   0.06
+RKP  :Rockport              :   90 / 82 /     0
+SAT  :San Antonio           :   98 / 77 /     0
+SSF  :San Antonio Stinson   :  101 / 78 /     0
+HYI  :San Marcos            :   97 / 77 /     0
+DWH  :Tomball               :   94 / 78 /     T
+VCT  :Victoria              :   94 / 77 /     T
+:...OTHERS...
+SHV  :Shreveport            :   98 / 77 /     T
+TXK  :Texarkana             :   96 / 76 /     0
+.END
